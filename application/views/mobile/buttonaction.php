@@ -1,0 +1,1 @@
+<a class="button<?php echo $actionTitle; ?>" href="javascript:<?php echo $actionJS; ?>(<?php echo $id; ?>)"><?php echo $actionTitle; ?></a>
